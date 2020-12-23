@@ -6,10 +6,11 @@ sections:
     type: section_hero
     title: WHTCORPS presents
     content: >-
-      A Contra: WHTCORPS is the home of revolutionary, globally available,
-      decentralied; Post-Quantum Secured, Relativistic Linearizable; Causal
-      Consistent, Semi-Relational; Hybrid Persistence layers and storage for
-      Distributed Ledgers, Permissioned Ledgers, and Hybrid OLAP/OLTP workloads.
+      A Contra: WHTCORPS is home to the of revolutionary editcts of the early
+      System R. WHTCORP specializes in globally available, decentralied;
+      Post-Quantum Secured, Relativistic Linearizable; Causal Consistent,
+      Semi-Relational; Hybrid Persistence layers and storage for Distributed
+      Ledgers, Permissioned Ledgers, and Hybrid OLAP/OLTP workloads.
     actions:
       - label: Let's talk
         url: /contact
