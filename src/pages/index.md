@@ -19,7 +19,9 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Californium Suite ($0.0010/Gbps)
-    subtitle: 'Embedded Databases, '
+    subtitle: >-
+      Embedded Databases, Knowledge-bases, and Persistence layers for IoT, Edge
+      Computing, and fog provisioning.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
