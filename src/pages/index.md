@@ -19,7 +19,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Californium Suite ($0.0010/Gbps)
-    subtitle: Emb
+    subtitle: 'Embedded Databases, '
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
