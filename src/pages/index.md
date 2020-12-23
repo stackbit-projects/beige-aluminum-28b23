@@ -6,8 +6,10 @@ sections:
     type: section_hero
     title: WHTCORPS presents
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      A Contra: WHTCORPS is the home of revolutionary, globally available,
+      decentralied; Post-Quantum Secured, Relativistic Linearizable; Causal
+      Consistent, Semi-Relational; Hybrid Persistence layers and storage for
+      Distributed Ledgers, Permissioned Ledgers, and Hybrid OLAP/OLTP workloads.
     actions:
       - label: Let's talk
         url: /contact
